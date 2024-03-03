@@ -1,0 +1,29 @@
+#My First GitHub project!
+
+#Taiwo's Simple Calculator.
+
+print("Welcome to Taiwo's Simple Calculator")
+
+First = int(input("Enter the First Number:"))
+Second = int(input("Enter the Second Number:"))
+
+#Compute the Sum
+
+Sum = First + Second
+
+#Compute the Difference
+
+Difference = First - Second
+
+#Compute the Product
+
+Product = First * Second
+
+#Compute the Division
+
+Division = First / Second
+
+print("The Sum is" ,Sum)
+print("The Difference is" ,Difference)
+print("The Product is" ,Product)
+print("Th Division is" ,Division)
